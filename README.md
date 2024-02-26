@@ -7,6 +7,9 @@ Data Science for Global Manager
 **Bachelor Degree:** Nanhua University, Chiayi County, Taiwan
   *Major: Hospitality and Tourism Management*
 
+**Master Degree:** Tunghai University, Taichung City, Taiwan
+  *Major: Global Master Business
+
 
 
 # Assessment Items
