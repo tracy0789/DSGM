@@ -1,4 +1,4 @@
-# DSGM
+# Tracy
 
 Data Science for Global Manager
 
