@@ -18,5 +18,3 @@ Born in *1999, Hanoi City, Vietnam*.
 
   *Major: Global Master Business Administration*
 
-
-
